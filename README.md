@@ -203,11 +203,9 @@ This project demonstrates how data analytics can support strategic business deci
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ravi Kushwah**
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/ravikushwah095
 
 ---
 
